@@ -42,3 +42,7 @@ body{
 #dinner:hover{
   color: black;
 }
+#food{
+  padding: 0;
+  margin: 15px;
+}
