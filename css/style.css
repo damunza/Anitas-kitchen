@@ -5,4 +5,13 @@ body{
 #one{
   background-image: url("../img/backgrounds/landing.jpg");
   text-align: center;
+  color: white;
+}
+#two{
+  margin: 0;
+  padding: 0;
+}
+#three{
+  background-color: #F15A29;
+  color: white;
 }
