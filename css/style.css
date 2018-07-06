@@ -24,7 +24,7 @@ body{
   color: black;
 }
 #breakfast:hover{
-  background: light;
+  backgro
 }
 #lunch{
   background-image: url("../img/foodtop/lunch.jpg");
@@ -32,6 +32,13 @@ body{
   cursor: pointer;
 }
 #lunch:hover{
-  color:black
+  color:black;
 }
-#
+#dinner{
+  background-image: url("../img/foodtop/dinner.jpg");
+  color: white;
+  cursor: pointer;
+}
+#dinner:hover{
+  color: black;
+}
