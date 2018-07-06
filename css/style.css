@@ -56,5 +56,13 @@ body{
   color: white;
 }
 .emailbtn{
-  background-color:#F15A29; 
+  background-color:#F15A29;
+}
+.foot{
+  background-color: #F15A29;
+  text-align: center;
+  color: white;
+}
+.fhead{
+  text-align: center;
 }
