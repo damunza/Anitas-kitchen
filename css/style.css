@@ -47,9 +47,10 @@ body{
   margin: 15px;
 }
 #drinks{
-  padding: 0;
-  margin: 2px;
+  padding-right: 10px
+  margin: 0;
 }
+
 .email{
   text-align: center;
   background-image: url("../img/backgrounds/subscribe.jpg");
@@ -65,4 +66,7 @@ body{
 }
 .fhead{
   text-align: center;
+}
+.picha{
+  color: #F15A29;
 }
