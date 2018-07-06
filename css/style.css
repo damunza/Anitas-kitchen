@@ -1,0 +1,8 @@
+body{
+  font-family: 'Josefin Sans', sans-serif;
+  margin: 10px;
+}
+#one{
+  background-image: url("../img/backgrounds/landing.jpg");
+  text-align: center;
+}
