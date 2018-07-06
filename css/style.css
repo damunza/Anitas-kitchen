@@ -50,3 +50,11 @@ body{
   padding: 0;
   margin: 2px;
 }
+.email{
+  text-align: center;
+  background-image: url("../img/backgrounds/subscribe.jpg");
+  color: white;
+}
+.emailbtn{
+  background-color:#F15A29; 
+}
