@@ -5,7 +5,7 @@
 {this is a recreation of a homepage image provided in mpft-ip which was cloned from github}
 ## Setup/Installation Requirements
 * A web browser,preferably Google chrome
-* run 
+* run https://github.com/damunza/Anitas-kitchen.git or https://damunza.github.io/Anitas-kitchen/
 
 
 ## Known Bugs
