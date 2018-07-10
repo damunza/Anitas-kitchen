@@ -73,3 +73,40 @@ body{
 .mapicha{
   background-image: url("../img/backgrounds/foodsBg.jpg");
 }
+.sideNav {/*sidebar styling*/
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #F15A29;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.sideNav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+    transition: 0.3s;
+}
+
+.sideNav a:hover {
+    color: #f1f1f1;
+}
+
+.sideNav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+#navbar{
+  cursor: pointer;
+}

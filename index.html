@@ -10,6 +10,26 @@
 </head>
 
 <body class="jumbotron">
+  <div class="sideNav" id="mysideNav"><!--sidebar-->
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a><!--button to close navbar-->
+  <a href="#">Contacts</a>
+  <a href="#">Events</a>
+  <a href="#">Menu</a>
+</div>
+<span onclick="openNav()" id="navbar" >&#9776;</span><!--button to upen navbar-->
+<script>
+function openNav() {
+    document.getElementById("mysideNav").style.width = "250px";
+}
+
+function closeNav() {
+    document.getElementById("mysideNav").style.width = "0";
+}
+</script>
+
+
+
+  </div>
   <div class="justify-content-centre" id="one">
     <img src="img/logoBig.png" alt="company logo">
     <p>We Provide The Best Food At The<strong> Right Price</strong></p>
